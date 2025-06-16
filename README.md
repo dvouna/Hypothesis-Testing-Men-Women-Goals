@@ -1,6 +1,7 @@
 # Hypothesis Testing with Men's and Women's FIFA Soccer Matches 
 
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/) 
+[![pandas](https://img.shields.io/badge/pandas-2.2+-black.svg)](https://pandas.pydata.org/)
 [![matplotlib](https://img.shields.io/badge/matplotlib-3.8+-purple.svg)](https://matplotlib.org/stable/)
 [![pingouin](https://img.shields.io/badge/pingouin-0.5.4+-brightgreen.svg)](https://pingouin-stat.org/)
 [![scipy](https://img.shields.io/badge/scipy-1.10+-orange.svg)](https://scipy.org/) 
