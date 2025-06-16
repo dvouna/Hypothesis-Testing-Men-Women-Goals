@@ -45,5 +45,3 @@ Released under the MIT License. See the LICENSE file for more info.
 
 💡 GitHub Repo Description (for sidebar)
 > Statistical comparison of goal-scoring patterns between men’s and women’s football using Python and hypothesis testing methods.
-
-Let me know if you’d like to make this badge set dynamic with GitHub Actions, or auto-generate results when the notebook changes. We can take it as far as you’d like. ⚽📊
