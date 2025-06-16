@@ -42,6 +42,3 @@ cd Hypothesis-Testing-Men-Women-Goals
 
 📄 License
 Released under the MIT License. See the LICENSE file for more info.
-
-💡 GitHub Repo Description (for sidebar)
-> Statistical comparison of goal-scoring patterns between men’s and women’s football using Python and hypothesis testing methods.
